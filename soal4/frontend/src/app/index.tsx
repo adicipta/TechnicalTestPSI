@@ -1,5 +1,3 @@
-"use client";
-
 import { Table, Input, Button, Image } from "antd";
 import { useState } from "react";
 import type { ColumnsType } from "antd/es/table";
