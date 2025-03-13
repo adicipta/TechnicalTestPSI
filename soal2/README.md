@@ -13,7 +13,7 @@ Simple API for technical test PT Praweda Sarana Informatika with cookies and jwt
 1. Make sure Go is installed on your system
 2. Clone this repository:
    ```sh
-   git clone https://github.com/adicipta/TechnicalTestPSI/
+   git clone https://github.com/adicipta/TechnicalTestPSI/tree/7d1c0f880b8b8d4ef8a317d2e5196fb7771ede36/soal2
    ```
 3. Go to project directory:
    ```sh
