@@ -11,7 +11,7 @@ Simple API for technical test PT Praweda Sarana Informatika for fetch API
 1. Make sure Go is installed on your system
 2. Clone this repository:
    ```sh
-   git clone https://github.com/adicipta/TechnicalTestPSI/
+   git clone https://github.com/adicipta/TechnicalTestPSI/tree/38743e00d609d7567b194ee79d459ed817d20396/soal4/backend
    ```
 3. Go to project directory:
    ```sh
