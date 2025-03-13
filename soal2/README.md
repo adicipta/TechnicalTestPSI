@@ -52,7 +52,7 @@ Simple API for technical test PT Praweda Sarana Informatika with cookies and jwt
 **URL** `GET /protected`
 
 **Headers:**
-```json
+```
 Cookie: token=your_jwt_token
 ```
 
