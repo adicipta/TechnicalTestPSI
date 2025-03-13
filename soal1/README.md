@@ -11,7 +11,7 @@ Simple API for technical test PT Praweda Sarana Informatika with discount vouche
 1. Make sure Go is installed on your system
 2. Clone this repository:
    ```sh
-   git clone https://github.com/adicipta/TechnicalTestPSI.git
+   git clone https://github.com/adicipta/TechnicalTestPSI/tree/7a1f2175bfb3c7c6165fa3a69e5b9b8d89f46abc/soal1
    ```
 3. Go to project directory:
    ```sh
@@ -26,7 +26,7 @@ Simple API for technical test PT Praweda Sarana Informatika with discount vouche
 ### 1. Checkout
 **URL:** `POST /checkout`
 
-**Request Body:**
+**Request Body With Voucher:**
 ```json
 {
   "user_id": 1,
@@ -44,6 +44,7 @@ Simple API for technical test PT Praweda Sarana Informatika with discount vouche
 }
 ```
 
+**Request Body Without Voucher:**
 ```json
 {
   "user_id": 1,
