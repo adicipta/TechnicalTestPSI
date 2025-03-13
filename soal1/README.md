@@ -15,7 +15,7 @@ Simple API for technical test PT Praweda Sarana Informatika with discount vouche
    ```
 3. Go to project directory:
    ```sh
-   cd ecommerce-checkout
+   cd soal1
    ```
 4. Run the application:
    ```sh
